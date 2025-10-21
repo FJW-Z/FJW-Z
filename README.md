@@ -14,7 +14,6 @@
 
 - 🎓 **Bachelor in English Language**, Beijing Normal University (BNU)
   - General Linguistics, Second Language Acquisition, Functional Linguistics
-  - **Related Courses:** Advanced Mathematics, Statistics, Probability Theory, Linear Algebra, Calculus
 - 🎓 **Double Major Bachelor in Economics**, Peking University (PKU)
   - Econometrics, Microeconomics, Macroeconomics, Labour Economics
   - **Related Courses:** Advanced Mathematics, Statistics, Probability Theory, Linear Algebra, Calculus
