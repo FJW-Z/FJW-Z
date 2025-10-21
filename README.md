@@ -13,7 +13,7 @@
 ## 🏅 Academic & Professional Background
 
 - 🎓 **Bachelor in English Language**, Beijing Normal University (BNU)
-  - General Linguistics, Second Language Acquisition, Functional Linguistics
+  - General Linguistics, Discoure Analysis, Second Language Acquisition, Functional Linguistics
 - 🎓 **Double Major Bachelor in Economics**, Peking University (PKU)
   - Econometrics, Microeconomics, Macroeconomics, Labour Economics
   - **Related Courses:** Advanced Mathematics, Statistics, Probability Theory, Linear Algebra, Calculus
