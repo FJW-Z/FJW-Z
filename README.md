@@ -35,10 +35,10 @@
   - SPSS, R, Stata (statistical modeling, data visualization)
   - Machine Learning (coursework and projects)
   - Advanced Mathematics, Probability, Linear Algebra, Calculus
-- **NLP & Data Projects:**
-  - Discourse analysis of microblog corpus using web crawlers and SPSS/Python
+- **NLP,ASR, TTS & Data Projects:**
+  - Discourse analysis of microblog corpus using web crawlers and SPSS & Python
   - Verb collocation analysis in academic writing corpus with Python & NLTK
-
+  - Intern linguistic enginner for ASR & TTS project in a communication Ltd. 
 ---
 
 ## 📚 Research & Projects
