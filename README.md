@@ -43,7 +43,7 @@
 
 ## 📚 Research & Projects
 
-- *Coming soon: Academic code, research scripts, and internship projects.*
+- See more in my repositories.
 
 ---
 
